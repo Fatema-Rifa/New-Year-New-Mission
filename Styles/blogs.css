@@ -1,0 +1,131 @@
+body{
+    margin: 20px;
+    border: 16px;
+    padding: 16px;
+}
+.background
+{
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+background-image: url(../images/resources/Banner\ Image.png);
+text-align: center;
+}
+#Gretting
+{
+    color:#FFFFFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    padding: 177px  530px 383px 531px ;
+}
+
+
+
+#Title
+{
+    color:#FFFFFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; /* 131.944% */
+
+    padding: 233px 344px 177px;
+    
+    
+}
+article > section > h2{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+article > section > h6
+{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+article > section > p
+{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 0;
+}
+article > section > img{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+article > section > div ,.party
+
+
+{
+    background-image: url(../images/resources/Vectorrr.png);
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+line-height: 700;
+margin-top:34px;
+
+display: flex;
+
+}
+#Welcome{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+color: #FFF;
+width: 642px;
+padding: 106px 552px 298px 126px;
+}
+
+ #Note
+{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+ width: 697px; 
+}
+ #wish{
+    display: flex;
+width: 319.83px;
+height: 464.662px;
+padding: 0.008px 0px 0px 0px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+ 
+} 
+
